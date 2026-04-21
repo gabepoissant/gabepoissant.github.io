@@ -14,5 +14,5 @@ Data professional with a background in business intelligence and financial manag
 | **Languages** | Python (Pandas, NumPy), SQL (MySQL), HTML/CSS |
 | **Data Analysis** | Exploratory Data Analysis (EDA), Statistical Modeling, Financial ROI |
 | **Data Architecture** | Relational Database Design, ETL Pipelines, Normalization (3NF) |
-| **Visualization** | Tableau, Google Looker Studio, Matplotlib, Seaborn |
+| **Visualization** | Tableau, Google Data Studio, Matplotlib, Seaborn |
 | **Operations** | Git/GitHub, Docker, Linux (Ubuntu), Advanced Excel/Sheets |
